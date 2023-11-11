@@ -22,7 +22,7 @@ function App() {
       <div className="profilesection">
         <div className="picture w-32 h-32 md:w-60 md:h-60 relative mr-5 ml-7">
           <img
-            className="rounded-full"
+            className=" border-black border-4 rounded-full"
             src={profileData.profile.picture}
             alt="Adarsh"
           />
