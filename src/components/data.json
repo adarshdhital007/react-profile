@@ -1,0 +1,40 @@
+[
+  {
+    "profile": {
+      "name": "Adarsh Dhital",
+      "role": "SDE at Angular Addict",
+      "picture": "https://adarshkhatri.com.np/static/media/self.23b4131337c3710d5885.png",
+      "followers": "62K",
+      "following": "245",
+      "postcount": 134
+    },
+    "postdescription": {
+      "posts": {
+        "post1": {
+          "title": "Messi vs Ronaldo",
+          "description": "Jump into the eternal Messi vs Ronaldo debate, delving beyond their on-field mastery to explore the cultural impact they've made on the sport. Forget who the other GOAT is; what matters is my GOAT—SIUUU! 🐐⚽",
+          "category": "breathtaking",
+          "datepublished": "Dec 2",
+          "timetoread": "5 mins Read",
+          "views": "90.4K"
+        },
+        "post2": {
+          "title": "Angular Addict",
+          "description": "Dive into the wild world of Angular Addicts—where laughter cures code chaos! Join the curly circus, dance with directives, and squash bugs with a smile. Warning: May cause unstoppable laughter, web wizardry skills, and an addiction to Angular puns. Get ready to LOL your way to coding greatness! 🚀😂",
+          "category": "musing",
+          "datepublished": "Dec 1",
+          "timetoread": "2 mins Read",
+          "views": "11.1K"
+        },
+        "post3": {
+          "title": "Write to Build",
+          "description": "Discover the power of writing with these three mini steps: 1. Reflect on your thoughts, 2. Organize your ideas, 3. Express yourself with clarity.",
+          "category": "thought",
+          "datepublished": "Dec 3",
+          "timetoread": "10 mins Read",
+          "views": "6K"
+        }
+      }
+    }
+  }
+]
